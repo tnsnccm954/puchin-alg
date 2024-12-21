@@ -1,1 +1,2 @@
 # puchin-alg
+### Project Detail
